@@ -200,7 +200,6 @@ class Quiz:
         self.third_option_button.config(state=DISABLED, disabledforeground='black')
         self.forth_option_button.config(state=DISABLED, disabledforeground='black')
         self.ans_button.config(state=DISABLED)
-        print(self.winning_game_list)
 
     def question_number_label_changer_command(self, text='Question / '):
         self.canvas.itemconfig(self.f1, text=text)
@@ -212,7 +211,6 @@ class Quiz:
             yellow = '#ffff99'
             self.current_question_from_0 += 1
             self.current_question_from_1 += 1
-            print(self.current_question_from_1)
             if self.current_question_from_1 == self.total_question + 1:
                 if len(self.winning_game_list) >= 1:
                     mess.showinfo(
