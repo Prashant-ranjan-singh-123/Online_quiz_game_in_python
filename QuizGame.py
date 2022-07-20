@@ -349,9 +349,9 @@ class Quiz:
         else:
             ask = mess.askyesno(
                 title='Warning',
-                message='This question can be viewed only once, you cant go back\n\n'
-                        ''
-                        'Did You Want to view next question?')
+                message='If you saw the answer of this question then you cant reappear this question.'
+                        '\n'
+                        '\nAre you sure ?')
 
             if ask: 
                 command()
