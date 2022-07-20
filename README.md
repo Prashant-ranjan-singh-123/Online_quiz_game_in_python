@@ -19,9 +19,10 @@ Shortcuts in this are :-
 
 requirements are :-
   1) pip install pillow.
-  2) Reading/Writing Access to program.
-  3) All the required files.
-  4) Python 3.10 (Designed in Python 3.10)
+  2) pip install requests
+  3) Reading/Writing Access to program.
+  4) All the required files.
+  5) Python 3.10 (Designed in Python 3.10)
 
 
 Concepts used are :-
