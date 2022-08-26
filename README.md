@@ -1,37 +1,86 @@
-It is an Quiz Game Designed for Entertainment
-  1) Online (Compulsory) (API --> www.opentdb.com).
 
-Shortcuts in this are :-
+# 🙋 Quiz Game
 
-  1) Main Menu :-
-    1) a/b/c/d/e/f/g/h/i/j/k/l --> Selecting Type from 1/12
-    2) Enter --> Submit Button Shortcut.
+![](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Online_quiz_game_in_python/main/Demo%20Images%20(You%20can%20Delete)/Screenshot_20220720_223537.png)
 
-  2) Shortcut Of Game :-
-    1) 1/2/3/4 --> Selecting Option 1/2/3/4.
-    2) Enter --> Next Button Shortcut.
-    3) Space key --> Answer Button Shortcut.
+**-->** It is a quiz game application, made for playing quiz
 
-  3) Universal Shortcuts :-
-    1) ctrl+h / ctrl+H --> For Opening Help Menu
-    2) alt+f4 --> Exiting application.
+For this you need an **API --> http://www.opentdb.com/**
+
+## 📹 Video Of Application
+[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQEP-jrL9KJeHg/mp4-720p-30fp-crf28/0/1659246049028?e=1662127200&v=beta&t=0TxhBUZgcIkXHM-pUCASuuIuBSrUDK0Xanrr4CD1VbE)
 
 
-requirements are :-
-  1) pip install pillow.
-  2) pip install requests
-  3) Reading/Writing Access to program.
-  4) All the required files.
-  5) Python 3.10 (Designed in Python 3.10)
+## 🧰 Requirement 
 
+**1)** Install Dependency: 
 
-Concepts used are :-
-  1) GUI Concepts (Tkinter)
-  2) API Concepts (Application Program Interface)
-  3) Json Concepts
-  4) Figma (for UI design)
-  5) File operations
-  6) OS Basics (Process ID, Reading/Writing Access of program)
-  7) File Structure (Paths (Relative, full))
-  8) web browser (Linking Web Browser to program/ Redirecting)
-  etc
+$) ```pip install pillow```
+
+$)  ```pip install requests```
+
+**2)** Reading/Writing Access to program.
+
+**3)** All the required files.
+
+**4)** Python 3.10 (Designed in Python 3.10)
+
+## ⌛ Shortcuts of Program
+
+### 📁 Main Menu
+
+| Shortcut     | Function                |
+| :------- | :------------------------- |
+| a | General Knowledge  quiz type  |
+| b | Books quiz type     |
+| c |     Films   quiz type   |
+| d | Music quiz type |
+| e | Television quiz type  |
+| f | Video Game quiz type  |
+| g | Nature quiz type  |
+| h | Computer quiz type  |
+| i | Sports quiz type  |
+| j | Geography quiz type  |
+| k | History quiz type  |
+| l | Cartoon and Animation quiz type  |
+| Enter Key |  Submit Button Shortcut  |
+
+### 📁 Shortcut Of Game
+
+| Shortcut     | Function                |
+| :------- | :------------------------- |
+| 1 | Option 1  |
+| 2 | Option 2  |
+| 3 | Option 3  |
+| 4 | Option 4  |
+| Enter Key | Next Button Shortcut  |
+| Space Key | Answer Button Shortcut     |
+
+### 📁 Universal Shortcuts
+
+| Shortcut     | Function                |
+| :------- | :------------------------- |
+| ctrl+h | Opening Help Menu  |
+| alt+f4 | Exiting application  |
+
+## 
+## 🧠 Concepts Learned
+
+1) GUI Concepts (Tkinter)
+2) API Concepts (Application Program Interface)
+3) Json Concepts
+4) Figma (for UI design)
+5) File operations
+6) OS Basics (Process ID, Reading/Writing Access of program)
+7) File Structure (Paths (Relative, full))
+8) web browser (Linking Web Browser to program/ Redirecting) etc
+
+## 🔗 Connect Me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
+
+[![linkedin](https://img.shields.io/badge/gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=prashant.singh.12312345@gmail.com)
+
+## 🙋 Support
+
+- **Email:** prashant.singh.12312345@gmail.com 
+- **Linkdin:** [prashant-ranjan-singh-b9b6b9217](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
